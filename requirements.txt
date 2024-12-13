@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78
+numpy==1.26.2
+pyautogui==0.9.54
+moviepy==1.0.3
+sounddevice==0.4.6
+soundfile==0.12.1
